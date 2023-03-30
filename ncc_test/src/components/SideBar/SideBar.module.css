@@ -1,0 +1,26 @@
+.sidebar {
+    width: 150px;
+    background-color: #191718;
+}
+
+.sidebar ul {
+    padding: 0;
+    width: 150px;
+}
+
+.item {
+    display: flex;
+    height: 44px;
+    color: #ffffff;
+    list-style: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    border-bottom-style: solid;
+    border-color: #faf5f5;
+    border-width: 0.5px;
+    justify-content: center;
+    align-items: center;
+}
